@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"There's no accident" - Master Oogway
 Use the left arrow to go back!
